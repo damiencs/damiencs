@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 3rd year computer science student at the University of Ottawa. 
+I'm a 4th year computer science student at the University of Ottawa. 
 
 
 # 💻 Tech Stack:
